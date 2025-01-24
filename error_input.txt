@@ -1,0 +1,16 @@
+#Basic Code
+
+import scipy
+
+x = 2
+y = 1
+
+ a = 3
+b = 4
+
+i=0
+
+for i in range(1,5)
+	c=1
+	d = c+2
+
